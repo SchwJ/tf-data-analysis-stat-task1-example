@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-chat_id = 749357762 # Ваш chat ID, не меняйте название переменной
+chat_id = 5191217616 # Ваш chat ID, не меняйте название переменной
 
 def solution(x: np.array) -> float:
     # Измените код этой функции
